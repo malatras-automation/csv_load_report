@@ -1,0 +1,10 @@
+--- Breaker load check (breaker 16 A) ---
+✅ Kitchen: 12.3 A - OK
+✅ Lights: 9.5 A - OK
+✅ Sockets living room: 16.0 A - OK
+❌ Oven: 17.8 A - OVERLOAD
+❌ Heat pump: 21.4 A - OVERLOAD
+❌ Electrical boiler: 18.7 A - OVERLOAD
+------------------------------
+✅ OK: 3
+❌ OVERLOAD: 3
